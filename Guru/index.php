@@ -30,7 +30,7 @@
         <div class="card ">
 
             <div class="card-header table-success">
-                <h3>Data Guru</h3>
+                <h3>Data Semua Guru</h3>
                 <center><a href="create.php" class="btn btn-dark" style="float: right;">Tambah Data</a></center>
             </div>
 
