@@ -17,7 +17,7 @@
             }
     </style> -->
 
-    <title>Crud</title>
+    <title>Crud Guru</title>
 
   </head>
   <body>
