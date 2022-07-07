@@ -43,7 +43,7 @@
                             <th scope="col">No</th>
                             <th scope="col">NIP</th>
                             <th scope="col">NAMA</th>
-                            <th scope="col">ALA</th>
+                            <th scope="col">ALAMAT</th>
                             <th scope="col">Action</th>
                             <th></th>
                             <th></th>
