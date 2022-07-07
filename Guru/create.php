@@ -30,7 +30,7 @@
         <div class="card">
 
             <div class="card-header">
-                Tambah Guru
+                Tambah Guru Baru
             </div>
 
             <div class="card-body table-primary table-striped">
